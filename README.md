@@ -26,6 +26,7 @@ I want to help people **monetize their content more effectively** on YouTube by 
 ## Dataset
 
 -> https://www.kaggle.com/datasnaek/youtube-new <br/>
+
 This dataset includes several months of data on daily trending YouTube videos. Data includes the video title, channel title, publish time, tags, views, likes and dislikes, description, and comment count for up to 200 trending videos per day for several regions. More information like the channel’s age, channel's video count, and subscriber count have been added using the YouTube API. From this dataset, I will only be using the USA's, Canada's, and Great Britain's trending video data.
 
 ### YouTube API
@@ -43,6 +44,7 @@ I also augment the available data with my own data scavenged from YouTube using 
 ### Data Format
 
 The csv format of final file that contains both Old and New data:
+
 | | | |
 | -------------------- | ---------------------- | ----------------------------- |
 |1. regionTrending |12. videoDislikes |23. thumbnail_link |
