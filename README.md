@@ -6,7 +6,7 @@ Hello, I am Yuqi(David) He, a third year Computer Engineering student at Georgia
 
 ## Past Experience
 
-I have completed machine learning and AI cmyses and have decent understanding in machine learning. I have done many machine learning projects including a well-trained Discord chat bot. I am familiar with both supervised and unsupervised machine learning approaches. There is my [resume](https://github.gatech.edu/yhe374/ECE3005/blob/master/David%20He's%20Resume.pdf).
+I have completed machine learning and AI cmyses and have decent understanding in machine learning. I have done many machine learning projects including a well-trained Discord chat bot. I am familiar with both supervised and unsupervised machine learning approaches. There is my [resume](https://github.com/dave2929/ECE3005/blob/main/David%20He's%20Resume.pdf).
 
 ## Work Purpose & Scope
 
